@@ -1,6 +1,4 @@
-## Hi there 👋
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Fuad." src="./assets/gh-readme-header.png" /></a></p>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Fuad Al Amin" />
-</h1>
+<br />
 
